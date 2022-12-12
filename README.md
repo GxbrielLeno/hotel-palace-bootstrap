@@ -1,7 +1,7 @@
 # Hotel Palace
 
 Hotel Palace foi um projeto Front-END utilizando bootstrap.
-[Link do projeto: https://hotel-palace-bootstrap.netlify.app/]
+[Link do projeto: https://hotel-palace.netlify.app/]
 
 
 # Tecnologias utilizadas
