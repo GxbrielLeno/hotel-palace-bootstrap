@@ -1,13 +1,20 @@
-# Hotel Palace
+<h2 align="center">
+  Hotel Palace
+</h2>
+<p align="center">
+  Projeto: Hotel Palaca BootStrap</p>
+  
+![cats](https://user-images.githubusercontent.com/116293621/210641414-66495846-f932-4e1f-ad19-c0e17517aa60.jpg)
 
-Hotel Palace foi um projeto Front-END utilizando bootstrap.
-[Link do projeto: https://hotel-palace.netlify.app/]
+<p align="center">
+  Link do projeto: https://hotel-palace.netlify.app/</p>
 
+## Sobre o projeto
 
-# Tecnologias utilizadas
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Projeto feito totalmente com Boostrap, Front-END totalmente completo e responsivo.
 
+## 🚀 Como executar
 
+- Clone o repositório
+- Coloque no servidor local
+- Agora você pode acessar localhost do seu navegador.
